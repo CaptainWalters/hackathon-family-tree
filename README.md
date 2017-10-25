@@ -34,6 +34,7 @@ Below is the starting of a [Mermaid](https://knsv.github.io/mermaid/) graph.
           - DragonHacks
           - HackNE
           - Landing Hack
+            - HackSussex
           - WarwickHACK
             - CUCC Hack
           - Hack the Holidays
@@ -161,4 +162,6 @@ graph TD;
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
     HackSheffield;
+    LandingHack-->HackSussex;
+    
     
