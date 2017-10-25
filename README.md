@@ -161,7 +161,7 @@ graph TD;
     HackZurich;
     JPMCodeForGood-->DurHack;  
     HackaSoton-->HackTrain;  
-    HackSheffield;
+    HackSheffield;  
     LandingHack-->HackSussex;
     
     
